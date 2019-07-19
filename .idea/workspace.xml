@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/solution1_10/solution8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1309">
-              <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+            <state relative-caret-position="1292">
+              <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/solution1_10/solution9.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/solution1_10/solution10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-178">
+              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
             </state>
           </provider>
         </entry>
@@ -75,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/solution1_10/solution7.java" />
         <option value="$PROJECT_DIR$/src/solution1_10/solution8.java" />
         <option value="$PROJECT_DIR$/src/solution1_10/solution9.java" />
+        <option value="$PROJECT_DIR$/src/solution1_10/solution10.java" />
       </list>
     </option>
   </component>
@@ -128,7 +138,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,9 +152,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution9">
-    <configuration name="solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution1_10.solution5" />
+  <component name="RunManager" selected="Application.solution10">
+    <configuration name="solution10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution1_10.solution10" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution10" />
         <item itemvalue="Application.solution9" />
         <item itemvalue="Application.solution8" />
         <item itemvalue="Application.solution7" />
         <item itemvalue="Application.solution6" />
-        <item itemvalue="Application.solution5" />
       </list>
     </recent_temporary>
   </component>
@@ -231,18 +241,19 @@
       <workItem from="1563181175256" duration="4296000" />
       <workItem from="1563328628459" duration="1959000" />
       <workItem from="1563330953731" duration="3745000" />
-      <workItem from="1563413254834" duration="842000" />
+      <workItem from="1563413254834" duration="5808000" />
+      <workItem from="1563502105056" duration="4414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10842000" />
+    <option name="totallyTimeSpent" value="20222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2591687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26222494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,7 +262,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49938875" visible="true" weight="0.22757848" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" weight="0.22757848" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -260,7 +271,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061125" side_tool="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012225" side_tool="true" weight="0.22757848" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -340,16 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution1_10/solution8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/solution1_10/solution7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
@@ -357,10 +358,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution1_10/solution8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/solution1_10/solution9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution1_10/solution10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
         </state>
       </provider>
     </entry>
