@@ -57,6 +57,10 @@ package solution1_10;
  * 链接：https://leetcode-cn.com/problems/regular-expression-matching
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
+
+/**
+ * 这道题我看了题解还要理解好久，果然是太菜了-_-||
+ */
 enum Res {
     TRUE,
     FALSE
