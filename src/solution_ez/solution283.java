@@ -24,18 +24,37 @@ package solution_ez;
 public class solution283 {
 
     public void moveZeroes(int[] nums) {
-        int count = 0, tail = nums.length - 1;
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] == 0) {
-                nums[i] = nums[i + 1];
-                nums[i + 1] = 0;
-                count++;
+        int left = nums.length - 1, right = nums.length - 1;
+        while (left >= 0) {
+            if (nums[left] == 0) {
+                for (int i = left; i < right; i++) {
+                    int tmp = nums[i];
+                    nums[i] = nums[i + 1];
+                    nums[i + 1] = tmp;
+                }
+                right--;
+            }
+            left--;
+        }
+    }
+
+    private void fun(int[] nums) {
+        for (int last = 0, cur = 0; cur < nums.length; cur++) {
+            if (nums[cur] != 0) {
+                int tmp = nums[cur];
+                nums[cur] = nums[last];
+                nums[last] = tmp;
+                last++;
             }
         }
-        while (count != 0) {
-            nums[tail] = 0;
-            tail--;
-            count--;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {0,1,0,3,12};
+        solution283 s = new solution283();
+        s.fun(nums);
+        for (int x : nums) {
+            System.out.print(x + " -> ");
         }
     }
 }
