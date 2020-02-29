@@ -62,4 +62,10 @@ public class solution345 {
         }
         return false;
     }
+
+    public static void main(String[] args) {
+        String str = "leetcode";
+        solution345 s = new solution345();
+        System.out.println(s.reverseVowels(str));
+    }
 }
