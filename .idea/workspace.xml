@@ -20,32 +20,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution559.java">
+        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution566.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
-              <folding>
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="351">
+              <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution561.java">
+        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution572.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+            <state relative-caret-position="442">
+              <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution563.java">
+        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution575.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="266">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,9 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/solution_ez/solution349.java" />
-        <option value="$PROJECT_DIR$/src/solution_ez/solution350.java" />
-        <option value="$PROJECT_DIR$/src/solution_ez/solution367.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution371.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution374.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution383.java" />
@@ -124,6 +120,9 @@
         <option value="$PROJECT_DIR$/src/solution_ez/solution559.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution561.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution563.java" />
+        <option value="$PROJECT_DIR$/src/solution_ez/solution566.java" />
+        <option value="$PROJECT_DIR$/src/solution_ez/solution572.java" />
+        <option value="$PROJECT_DIR$/src/solution_ez/solution575.java" />
       </list>
     </option>
   </component>
@@ -141,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -192,46 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution563">
-    <configuration name="solution541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution541" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution551" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution551" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution557" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.solution575">
     <configuration name="solution561" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solution_ez.solution561" />
       <module name="leetcode" />
@@ -258,13 +218,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="solution566" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution566" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_ez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution572" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_ez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution575" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution575" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_ez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution575" />
+        <item itemvalue="Application.solution572" />
+        <item itemvalue="Application.solution566" />
         <item itemvalue="Application.solution563" />
         <item itemvalue="Application.solution561" />
-        <item itemvalue="Application.solution557" />
-        <item itemvalue="Application.solution551" />
-        <item itemvalue="Application.solution541" />
       </list>
     </recent_temporary>
   </component>
@@ -344,12 +343,13 @@
       <workItem from="1584107351652" duration="1894000" />
       <workItem from="1584192152093" duration="3473000" />
       <workItem from="1584278804892" duration="2339000" />
-      <workItem from="1584366890450" duration="2254000" />
+      <workItem from="1584366890450" duration="2372000" />
+      <workItem from="1584451747568" duration="3237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219679000" />
+    <option name="totallyTimeSpent" value="223034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,7 +364,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49782294" visible="true" weight="0.17114915" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49782294" visible="true" weight="0.17298289" />
       <window_info id="Structure" order="1" sideWeight="0.50217706" side_tool="true" weight="0.21515892" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,8 +373,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4944988" weight="0.28363228" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2881166" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4944988" visible="true" weight="0.28363228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2881166" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295964" />
@@ -429,30 +429,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution392.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution401.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution402.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_ez/solution405.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="587">
@@ -811,26 +787,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_ez/solution559.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
-          <folding>
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="884">
+          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_ez/solution561.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="544">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_ez/solution563.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="231">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution566.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution572.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution575.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
