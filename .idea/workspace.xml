@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/solution21_30/solution29.java" line="49" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a2d7ca7-3bbb-4f6b-8c3c-c30ae6cf7b38" name="Default Changelist" comment="" />
+    <list default="true" id="7a2d7ca7-3bbb-4f6b-8c3c-c30ae6cf7b38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,19 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution687.java">
+        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution696.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            <state relative-caret-position="408">
+              <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution690.java">
+        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution697.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+            <state relative-caret-position="334">
+              <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,10 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution693.java">
+        <entry file="file://$PROJECT_DIR$/src/solution_ez/solution700.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            <state relative-caret-position="453">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -70,9 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/solution_ez/solution485.java" />
-        <option value="$PROJECT_DIR$/src/solution_ez/solution492.java" />
-        <option value="$PROJECT_DIR$/src/solution_ez/solution496.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution500.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution501.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution504.java" />
@@ -121,6 +120,9 @@
         <option value="$PROJECT_DIR$/src/solution_ez/solution687.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution690.java" />
         <option value="$PROJECT_DIR$/src/solution_ez/solution693.java" />
+        <option value="$PROJECT_DIR$/src/solution_ez/solution696.java" />
+        <option value="$PROJECT_DIR$/src/solution_ez/solution697.java" />
+        <option value="$PROJECT_DIR$/src/solution_ez/solution700.java" />
       </list>
     </option>
   </component>
@@ -138,6 +140,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,7 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,33 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution693">
-    <configuration name="solution665" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution665" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution674" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution674" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.solution697">
     <configuration name="solution680" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solution_ez.solution680" />
       <module name="leetcode" />
@@ -254,13 +230,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="solution696" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution696" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_ez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution697" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_ez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution697" />
+        <item itemvalue="Application.solution696" />
         <item itemvalue="Application.solution693" />
         <item itemvalue="Application.solution686" />
         <item itemvalue="Application.solution680" />
-        <item itemvalue="Application.solution674" />
-        <item itemvalue="Application.solution665" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +352,13 @@
       <workItem from="1584969386229" duration="1985000" />
       <workItem from="1585055870541" duration="2008000" />
       <workItem from="1585142240447" duration="3863000" />
-      <workItem from="1585229412506" duration="3999000" />
+      <workItem from="1585229412506" duration="4110000" />
+      <workItem from="1585313206394" duration="2692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249206000" />
+    <option name="totallyTimeSpent" value="252009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,7 +373,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49782294" visible="true" weight="0.14792176" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49782294" visible="true" weight="0.14975551" />
       <window_info id="Structure" order="1" sideWeight="0.50217706" side_tool="true" weight="0.21515892" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -379,8 +382,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49388754" weight="0.28363228" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2881166" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49388754" visible="true" weight="0.28363228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2881166" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295964" />
@@ -435,31 +438,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution504.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1548">
-          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="143" column="28" lean-forward="true" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_ez/solution506.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -810,16 +788,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution687.java">
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution693.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        <state relative-caret-position="604">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_ez/solution690.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
+        <state relative-caret-position="697">
           <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -827,10 +805,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution693.java">
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution697.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        <state relative-caret-position="334">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution687.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="43" selection-start-line="43" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution696.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_ez/solution700.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
         </state>
       </provider>
     </entry>
