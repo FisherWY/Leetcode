@@ -60,6 +60,51 @@ import java.util.regex.Pattern;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class solution8 {
+
+    private int myNewAtoi(String str) {
+        int pos = 0, len = str.length();
+        int res = 0;
+        boolean isPositive = true;
+        if (len == 0) {
+            return 0;
+        }
+        // 前置空格
+        while (pos < len) {
+            if (str.charAt(pos) == ' ') {
+                pos++;
+            } else {
+                break;
+            }
+        }
+        // 第一个字符是字母或负号
+        if (pos < len && (str.charAt(pos) < '0' || str.charAt(pos) > '9')) {
+            if (str.charAt(pos) == '-') {
+                isPositive = false;
+                pos++;
+            } else if (str.charAt(pos) == '+') {
+                isPositive = true;
+                pos++;
+            } else {
+                return 0;
+            }
+        }
+        // 解析数字
+        while (pos < len) {
+            if (str.charAt(pos) >= '0' && str.charAt(pos) <= '9') {
+                int digit = str.charAt(pos) - '0';
+                if (res > (Integer.MAX_VALUE - digit) / 10) {
+                    return isPositive ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+                }
+                res *= 10;
+                res += digit;
+            } else {
+                break;
+            }
+            pos++;
+        }
+        return isPositive ? res : -res;
+    }
+
     public int myAtoi(String str) {
         // 去除尾部多余的空格
         str = str.trim();
@@ -93,8 +138,8 @@ public class solution8 {
     }
 
     public static void main(String[] args) {
-        String s = "words and 987";
+        String s = "-6147483648";
         solution8 s8 = new solution8();
-        System.out.println(s8.myAtoi(s));
+        System.out.println(s8.myNewAtoi(s));
     }
 }
