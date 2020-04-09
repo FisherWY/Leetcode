@@ -28,34 +28,27 @@ import java.util.List;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class solution22 {
+
+    List<String> list = new ArrayList<>();
+
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        fun(result, 0, 0, n, new StringBuilder());
-        return result;
+        helper(0, 0, n, new StringBuilder());
+        return list;
     }
 
-    private void fun(List<String> res, int left, int right, int n, StringBuilder s) {
-        // 左括号可以填
+    private void helper(int left, int right, int n, StringBuilder s) {
         if (left < n) {
-            // 填左括号
             s.append('(');
-            // 左括号数+1
-            fun(res, left+1, right, n, s);
-            // 回溯
-            s.deleteCharAt(s.length()-1);
+            helper(left + 1, right, n, s);
+            s.deleteCharAt(s.length() - 1);
         }
-        // 右括号可以填
         if (left > right) {
-            // 填右括号
             s.append(')');
-            // 右括号数+1
-            fun(res, left, right+1, n, s);
-            // 回溯
-            s.deleteCharAt(s.length()-1);
+            helper(left, right + 1, n, s);
+            s.deleteCharAt(s.length() - 1);
         }
-        // 填完了，并且左括号数量等于右括号
-        if (left == n && left == right) {
-            res.add(s.toString());
+        if (left == n && right == n) {
+            list.add(s.toString());
         }
     }
 
