@@ -61,35 +61,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution466">
+  <component name="RunManager" selected="Application.solution989">
     <configuration name="solution466" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solution_ez.solution466" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution961" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution970" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution970" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -127,13 +101,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="solution985" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution985" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_ez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution989" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_ez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution989" />
+        <item itemvalue="Application.solution985" />
         <item itemvalue="Application.solution466" />
         <item itemvalue="Application.solution977" />
         <item itemvalue="Application.solution976" />
-        <item itemvalue="Application.solution970" />
-        <item itemvalue="Application.solution961" />
       </list>
     </recent_temporary>
   </component>
@@ -258,6 +258,7 @@
       <workItem from="1587044253209" duration="5512000" />
       <workItem from="1587130987243" duration="3362000" />
       <workItem from="1587215332097" duration="3869000" />
+      <workItem from="1587392204161" duration="4914000" />
     </task>
     <servers />
   </component>
