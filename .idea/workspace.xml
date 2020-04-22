@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a2d7ca7-3bbb-4f6b-8c3c-c30ae6cf7b38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution_ez/solution476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_ez/solution476.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +62,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution989">
-    <configuration name="solution466" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution466" />
+  <component name="RunManager" selected="Application.solution1010">
+    <configuration name="solution1005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution1005" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution976" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution976" />
+    <configuration name="solution1009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution1009" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution977" />
+    <configuration name="solution1010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution1010" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution985" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution985" />
+    <configuration name="solution476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution476" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution1010" />
+        <item itemvalue="Application.solution1009" />
+        <item itemvalue="Application.solution476" />
+        <item itemvalue="Application.solution1005" />
         <item itemvalue="Application.solution989" />
-        <item itemvalue="Application.solution985" />
-        <item itemvalue="Application.solution466" />
-        <item itemvalue="Application.solution977" />
-        <item itemvalue="Application.solution976" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +260,7 @@
       <workItem from="1587130987243" duration="3362000" />
       <workItem from="1587215332097" duration="3869000" />
       <workItem from="1587392204161" duration="4914000" />
+      <workItem from="1587547986220" duration="4688000" />
     </task>
     <servers />
   </component>
