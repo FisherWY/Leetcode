@@ -39,6 +39,37 @@ import java.util.Map;
  * 题目要求的是无重复，因此使用map来记录出现的字母，在字母重复出现之后立即返回。
  */
 public class solution3 {
+
+    /**
+     * 2020-5-2 时隔一年再刷，凭自己的能力做出来了
+     * 使用了滑动窗口的思想，记录下最大的无重复字母窗口
+     * @param s
+     * @return int
+     */
+    private int newfun(String s) {
+        int max = 0, cur = 0;
+        // 记录每个字母的下标
+        Map<Character, Integer> map = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (map.containsKey(c)) {
+                // 将出现重复字母前面的删除
+                for (int j = i - cur; j < map.get(c); j++) {
+                    map.remove(s.charAt(j));
+                }
+                // 更新窗口
+                cur = i - map.get(c);
+                // 更新当前重复字母的下标
+                map.put(c, i);
+            } else {
+                map.put(c, i);
+                cur++;
+                max = Math.max(max, cur);
+            }
+        }
+        return max;
+    }
+
     public int lengthOfLongestSubstring(String s) {
         int max = 0;
         for (int i=0; i<s.length(); i++) {
