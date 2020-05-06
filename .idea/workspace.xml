@@ -52,7 +52,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="应用程序.solution1275">
+  <component name="RunManager" selected="应用程序.solution1281">
     <configuration name="solution1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solution_ez.solution1260" />
       <module name="leetcode" />
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution45" />
+    <configuration name="solution1281" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution1281" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution98" />
+    <configuration name="solution983" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution983" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.solution1281" />
+        <item itemvalue="应用程序.solution983" />
         <item itemvalue="应用程序.solution1275" />
         <item itemvalue="应用程序.solution1266" />
         <item itemvalue="应用程序.solution1260" />
-        <item itemvalue="应用程序.solution98" />
-        <item itemvalue="应用程序.solution45" />
       </list>
     </recent_temporary>
   </component>
@@ -258,6 +258,7 @@
       <workItem from="1588511969023" duration="1431000" />
       <workItem from="1588601680946" duration="3754000" />
       <workItem from="1588684275545" duration="4822000" />
+      <workItem from="1588771637804" duration="3230000" />
     </task>
     <servers />
   </component>
@@ -304,38 +305,38 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="385" y="259" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1680.1010@0.0.1680.1010" timestamp="1588258011167" />
-    <state width="1637" height="270" key="GridCell.Tab.0.bottom" timestamp="1588689578027">
+    <state width="796" height="333" key="GridCell.Tab.0.bottom" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="270" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578027" />
-    <state width="1637" height="270" key="GridCell.Tab.0.center" timestamp="1588689578027">
+    <state width="796" height="333" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
+    <state width="796" height="333" key="GridCell.Tab.0.center" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="270" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578027" />
-    <state width="1637" height="270" key="GridCell.Tab.0.left" timestamp="1588689578027">
+    <state width="796" height="333" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
+    <state width="796" height="333" key="GridCell.Tab.0.left" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="270" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578027" />
-    <state width="1637" height="270" key="GridCell.Tab.0.right" timestamp="1588689578027">
+    <state width="796" height="333" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
+    <state width="796" height="333" key="GridCell.Tab.0.right" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="270" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578027" />
-    <state width="1637" height="335" key="GridCell.Tab.1.bottom" timestamp="1588689578024">
+    <state width="796" height="333" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
+    <state width="796" height="333" key="GridCell.Tab.1.bottom" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="335" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578024" />
-    <state width="1637" height="335" key="GridCell.Tab.1.center" timestamp="1588689578024">
+    <state width="796" height="333" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
+    <state width="796" height="333" key="GridCell.Tab.1.center" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="335" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578024" />
-    <state width="1637" height="335" key="GridCell.Tab.1.left" timestamp="1588689578024">
+    <state width="796" height="333" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
+    <state width="796" height="333" key="GridCell.Tab.1.left" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="335" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578024" />
-    <state width="1637" height="335" key="GridCell.Tab.1.right" timestamp="1588689578024">
+    <state width="796" height="333" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
+    <state width="796" height="333" key="GridCell.Tab.1.right" timestamp="1588774871067">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="335" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588689578024" />
+    <state width="796" height="333" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871067" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1588425059593">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
