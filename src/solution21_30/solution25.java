@@ -45,16 +45,20 @@ public class solution25 {
 
     public ListNode reverseKGroup(ListNode head, int k) {
         Stack<ListNode> stack = new Stack<>();
+        // 哨兵节点
         ListNode res = new ListNode(0);
+        // 工作指针
         ListNode ptr = res;
         while (true) {
             int count = 0;
+            // tmp最终指向下一次开始翻转的头部
             ListNode tmp = head;
-            while (tmp!=null && count<k) {
+            while (tmp != null && count < k) {
                 stack.push(tmp);
                 tmp = tmp.next;
                 count++;
             }
+            // 到达链表尾部，不足以达到翻转数目，直接接上尾部
             if (count != k) {
                 ptr.next = head;
                 break;
@@ -63,7 +67,8 @@ public class solution25 {
                 ptr.next = stack.pop();
                 ptr = ptr.next;
             }
-            ptr.next = tmp;
+            // ptr.next = tmp;
+            // 指向下一次开始翻转的头部
             head = tmp;
         }
         return res.next;
