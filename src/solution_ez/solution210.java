@@ -1,4 +1,4 @@
-package solution21_30;
+package solution_ez;
 
 /**
  * @Author Fisher
@@ -6,9 +6,7 @@ package solution21_30;
  **/
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 /**
  * 现在你总共有 n 门课需要选，记为 0 到 n-1。

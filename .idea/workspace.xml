@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7a2d7ca7-3bbb-4f6b-8c3c-c30ae6cf7b38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution21_30/LCP01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LCP/LCP01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution21_30/LCP02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LCP/LCP02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution21_30/solution1441.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_ez/solution1441.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution21_30/solution210.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_ez/solution210.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +56,13 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="应用程序.solution210">
-    <configuration name="LCP02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution21_30.LCP02" />
+  <component name="RunManager" selected="应用程序.LCP11">
+    <configuration name="LCP06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCP.LCP06" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution21_30.*" />
+          <option name="PATTERN" value="LCP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution1422" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution1422" />
+    <configuration name="LCP07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCP.LCP07" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
+          <option name="PATTERN" value="LCP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution1431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_ez.solution1431" />
+    <configuration name="LCP11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCP.LCP11" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution_ez.*" />
+          <option name="PATTERN" value="LCP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution1441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution21_30.solution1441" />
+    <configuration name="solution152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution152" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution21_30.*" />
+          <option name="PATTERN" value="LCP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +110,11 @@
       </method>
     </configuration>
     <configuration name="solution210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution21_30.solution210" />
+      <option name="MAIN_CLASS_NAME" value="solution_ez.solution210" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution21_30.*" />
+          <option name="PATTERN" value="LCP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.LCP11" />
+        <item itemvalue="应用程序.LCP07" />
+        <item itemvalue="应用程序.LCP06" />
+        <item itemvalue="应用程序.solution152" />
         <item itemvalue="应用程序.solution210" />
-        <item itemvalue="应用程序.LCP02" />
-        <item itemvalue="应用程序.solution1441" />
-        <item itemvalue="应用程序.solution1431" />
-        <item itemvalue="应用程序.solution1422" />
       </list>
     </recent_temporary>
   </component>
@@ -271,6 +275,7 @@
       <workItem from="1589634280281" duration="233000" />
       <workItem from="1589634525682" duration="2104000" />
       <workItem from="1589721597424" duration="5408000" />
+      <workItem from="1589807164553" duration="3793000" />
     </task>
     <servers />
   </component>
@@ -321,38 +326,38 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="385" y="259" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1680.1010@0.0.1680.1010" timestamp="1588258011167" />
-    <state width="1637" height="330" key="GridCell.Tab.0.bottom" timestamp="1589727010211">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1589809735101">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
-    <state width="1637" height="330" key="GridCell.Tab.0.center" timestamp="1589727010211">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589809735101" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1589809735101">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
-    <state width="1637" height="330" key="GridCell.Tab.0.left" timestamp="1589727010211">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589809735101" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1589809735101">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
-    <state width="1637" height="330" key="GridCell.Tab.0.right" timestamp="1589727010211">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589809735101" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1589809735101">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
-    <state width="1637" height="330" key="GridCell.Tab.1.bottom" timestamp="1589727010211">
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589809735101" />
+    <state width="1637" height="330" key="GridCell.Tab.1.bottom" timestamp="1589807728104">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
-    <state width="1637" height="330" key="GridCell.Tab.1.center" timestamp="1589727010211">
+    <state width="1637" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589807728104" />
+    <state width="1637" height="330" key="GridCell.Tab.1.center" timestamp="1589807728104">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
-    <state width="1637" height="330" key="GridCell.Tab.1.left" timestamp="1589727010211">
+    <state width="1637" height="330" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589807728104" />
+    <state width="1637" height="330" key="GridCell.Tab.1.left" timestamp="1589807728104">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
-    <state width="1637" height="330" key="GridCell.Tab.1.right" timestamp="1589727010211">
+    <state width="1637" height="330" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589807728104" />
+    <state width="1637" height="330" key="GridCell.Tab.1.right" timestamp="1589807728104">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589727010211" />
+    <state width="1637" height="330" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589807728104" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1589551349669">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

@@ -1,4 +1,4 @@
-package solution21_30;
+package solution_ez;
 
 /**
  * @Author Fisher
