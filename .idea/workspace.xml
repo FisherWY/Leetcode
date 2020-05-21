@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a2d7ca7-3bbb-4f6b-8c3c-c30ae6cf7b38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution1_10/solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution1_10/solution5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +53,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="应用程序.solution1371">
-    <configuration name="LCP07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LCP.LCP07" />
+  <component name="RunManager" selected="应用程序.LCP03">
+    <configuration name="LCP03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCP.LCP03" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.LCP03" />
         <item itemvalue="应用程序.solution1371" />
         <item itemvalue="应用程序.LCP08" />
         <item itemvalue="应用程序.LCP12" />
         <item itemvalue="应用程序.LCP11" />
-        <item itemvalue="应用程序.LCP07" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +275,7 @@
       <workItem from="1589807164553" duration="4076000" />
       <workItem from="1589894755645" duration="1872000" />
       <workItem from="1589980618881" duration="5464000" />
+      <workItem from="1590067230542" duration="3583000" />
     </task>
     <servers />
   </component>
@@ -324,42 +326,46 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="385" y="259" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1680.1010@0.0.1680.1010" timestamp="1588258011167" />
-    <state width="1637" height="330" key="GridCell.Tab.0.bottom" timestamp="1589986087592">
+    <state width="1637" height="330" key="GridCell.Tab.0.bottom" timestamp="1590070879672">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087592" />
-    <state width="1637" height="330" key="GridCell.Tab.0.center" timestamp="1589986087592">
+    <state width="1637" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
+    <state width="1637" height="330" key="GridCell.Tab.0.center" timestamp="1590070879672">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087592" />
-    <state width="1637" height="330" key="GridCell.Tab.0.left" timestamp="1589986087591">
+    <state width="1637" height="330" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
+    <state width="1637" height="330" key="GridCell.Tab.0.left" timestamp="1590070879672">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087591" />
-    <state width="1637" height="330" key="GridCell.Tab.0.right" timestamp="1589986087592">
+    <state width="1637" height="330" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
+    <state width="1637" height="330" key="GridCell.Tab.0.right" timestamp="1590070879672">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087592" />
-    <state width="1637" height="330" key="GridCell.Tab.1.bottom" timestamp="1589986087593">
+    <state width="1637" height="330" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
+    <state width="1637" height="330" key="GridCell.Tab.1.bottom" timestamp="1590070879673">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087593" />
-    <state width="1637" height="330" key="GridCell.Tab.1.center" timestamp="1589986087593">
+    <state width="1637" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879673" />
+    <state width="1637" height="330" key="GridCell.Tab.1.center" timestamp="1590070879672">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087593" />
-    <state width="1637" height="330" key="GridCell.Tab.1.left" timestamp="1589986087593">
+    <state width="1637" height="330" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
+    <state width="1637" height="330" key="GridCell.Tab.1.left" timestamp="1590070879672">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087593" />
-    <state width="1637" height="330" key="GridCell.Tab.1.right" timestamp="1589986087593">
+    <state width="1637" height="330" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
+    <state width="1637" height="330" key="GridCell.Tab.1.right" timestamp="1590070879673">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589986087593" />
+    <state width="1637" height="330" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879673" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1589551349669">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1589551349669" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1590068060898">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1590068060898" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

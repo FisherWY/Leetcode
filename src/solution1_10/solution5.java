@@ -32,7 +32,7 @@ public class solution5 {
             return "";
         }
         int pos = 0, length = 0;
-        int status[][] = new int[s.length()][s.length()];
+        int[][] status = new int[s.length()][s.length()];
         String reverse = new StringBuffer(s).reverse().toString();
         for (int i=0; i<s.length(); i++) {
             for (int j=0; j<s.length(); j++) {
