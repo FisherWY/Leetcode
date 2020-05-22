@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a2d7ca7-3bbb-4f6b-8c3c-c30ae6cf7b38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution1_10/solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution1_10/solution5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,6 +275,7 @@
       <workItem from="1589894755645" duration="1872000" />
       <workItem from="1589980618881" duration="5464000" />
       <workItem from="1590067230542" duration="3583000" />
+      <workItem from="1590155010263" duration="1974000" />
     </task>
     <servers />
   </component>
@@ -362,10 +362,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1589551349669" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1590068060898">
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1590156773717">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1590068060898" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1590156773717" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
