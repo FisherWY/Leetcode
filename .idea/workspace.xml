@@ -44,20 +44,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="应用程序.LCP11">
-    <configuration name="LCP11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LCP.LCP11" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LCP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.solution1447">
     <configuration name="LCP12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LCP.LCP12" />
       <module name="leetcode" />
@@ -73,6 +60,19 @@
     </configuration>
     <configuration name="solution1371" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solution_mid.solution1371" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_mid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution1447" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_mid.solution1447" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -110,6 +110,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.solution1447" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -260,6 +265,7 @@
       <workItem from="1590067230542" duration="3583000" />
       <workItem from="1590155010263" duration="1974000" />
       <workItem from="1590238717211" duration="3435000" />
+      <workItem from="1590412409848" duration="2422000" />
     </task>
     <servers />
   </component>
@@ -273,7 +279,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -310,22 +316,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="385" y="259" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1680.1010@0.0.1680.1010" timestamp="1588258011167" />
-    <state width="1637" height="330" key="GridCell.Tab.0.bottom" timestamp="1590070879672">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1590416350957">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
-    <state width="1637" height="330" key="GridCell.Tab.0.center" timestamp="1590070879672">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590416350957" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1590416350957">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
-    <state width="1637" height="330" key="GridCell.Tab.0.left" timestamp="1590070879672">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590416350957" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1590416350957">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
-    <state width="1637" height="330" key="GridCell.Tab.0.right" timestamp="1590070879672">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590416350957" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1590416350957">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="330" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590070879672" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590416350957" />
     <state width="1637" height="330" key="GridCell.Tab.1.bottom" timestamp="1590070879673">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -346,10 +352,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1589551349669" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1590156773717">
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1590412439182">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1590156773717" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1590412439182" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
