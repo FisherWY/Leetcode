@@ -24,6 +24,7 @@ import java.util.Stack;
  */
 public class solution394 {
 
+    // 记录上一次递归所遍历到的位置，回溯时直接跳到该位置后
     private int lastEnd = 0;
 
     public String decodeString(String s) {
