@@ -40,14 +40,22 @@ public class solution9 {
         return origin.equals(reverse);
     }
 
-    public static void main(String[] args) {
-        int x = 121;
-        solution9 s9 = new solution9();
-        if (s9.isPalindrome(x)) {
-            System.out.println("true");
-        } else {
-            System.out.println("false");
+    private boolean fun(int x) {
+        String s = String.valueOf(x);
+        int len = s.length();
+        for (int i = 0; i < len / 2; i++) {
+            if (s.charAt(i) != s.charAt(len - i - 1)) {
+                return false;
+            }
         }
+        return true;
+    }
+
+    public static void main(String[] args) {
+        int x = -121;
+        solution9 s9 = new solution9();
+        System.out.println(s9.isPalindrome(x));
+        System.out.println(s9.fun(x));
     }
 
 }
