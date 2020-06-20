@@ -61,12 +61,13 @@ package solution1_10;
 /**
  * 这道题我看了题解还要理解好久，果然是太菜了-_-||
  */
-enum Res {
-    TRUE,
-    FALSE
-}
 
 public class solution10 {
+
+    enum Res {
+        TRUE,
+        FALSE
+    }
 
     private Res[][] result;
 
