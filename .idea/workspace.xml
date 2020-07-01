@@ -46,13 +46,26 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="应用程序.solution1357">
+  <component name="RunManager" selected="应用程序.solution1353">
     <configuration name="Offer09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="剑指Offer.Offer09" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="剑指Offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution1353" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_mid.solution1353" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution_mid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,21 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution1361" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_mid.solution1361" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solution_mid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_mid.solution209" />
+    <configuration name="solution718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_mid.solution718" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.solution1353" />
+        <item itemvalue="应用程序.solution718" />
         <item itemvalue="应用程序.solution1357" />
         <item itemvalue="应用程序.Offer09" />
         <item itemvalue="应用程序.solution1358" />
-        <item itemvalue="应用程序.solution1361" />
-        <item itemvalue="应用程序.solution209" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +310,8 @@
       <workItem from="1593433576873" duration="84000" />
       <workItem from="1593433673177" duration="2164000" />
       <workItem from="1593518536787" duration="1454000" />
+      <workItem from="1593522250096" duration="94000" />
+      <workItem from="1593596709987" duration="1258000" />
     </task>
     <servers />
   </component>
@@ -360,22 +362,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="385" y="259" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1680.1010@0.0.1680.1010" timestamp="1588258011167" />
-    <state width="1637" height="273" key="GridCell.Tab.0.bottom" timestamp="1593519991946">
+    <state width="1637" height="273" key="GridCell.Tab.0.bottom" timestamp="1593597969217">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="273" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1593519991946" />
-    <state width="1637" height="273" key="GridCell.Tab.0.center" timestamp="1593519991946">
+    <state width="1637" height="273" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1593597969217" />
+    <state width="1637" height="273" key="GridCell.Tab.0.center" timestamp="1593597969217">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="273" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1593519991946" />
-    <state width="1637" height="273" key="GridCell.Tab.0.left" timestamp="1593519991946">
+    <state width="1637" height="273" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1593597969217" />
+    <state width="1637" height="273" key="GridCell.Tab.0.left" timestamp="1593597969217">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="273" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1593519991946" />
-    <state width="1637" height="273" key="GridCell.Tab.0.right" timestamp="1593519991946">
+    <state width="1637" height="273" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1593597969217" />
+    <state width="1637" height="273" key="GridCell.Tab.0.right" timestamp="1593597969217">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="273" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1593519991946" />
+    <state width="1637" height="273" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1593597969217" />
     <state width="1637" height="330" key="GridCell.Tab.1.bottom" timestamp="1593338233337">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -396,10 +398,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1589551349669" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1593433602103">
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1593522277359">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1593433602103" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1593522277359" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
