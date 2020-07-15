@@ -46,7 +46,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.solution1324">
+  <component name="RunManager" selected="Application.solution96">
     <configuration name="solution1324" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solution_mid.solution1324" />
       <module name="leetcode" />
@@ -99,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_mid.solution309" />
+    <configuration name="solution96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_mid.solution96" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -114,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution96" />
         <item itemvalue="Application.solution1324" />
       </list>
     </recent_temporary>
@@ -321,6 +322,8 @@
       <workItem from="1594545534191" duration="2248000" />
       <workItem from="1594629249464" duration="507000" />
       <workItem from="1594716679110" duration="3879000" />
+      <workItem from="1594781889898" duration="1214000" />
+      <workItem from="1594814244239" duration="3458000" />
     </task>
     <servers />
   </component>
@@ -371,22 +374,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="385" y="259" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1680.1010@0.0.1680.1010" timestamp="1588258011167" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1594724494261">
+    <state width="1637" height="244" key="GridCell.Tab.0.bottom" timestamp="1594821416265">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1594724494261" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1594724494261">
+    <state width="1637" height="244" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1594821416265" />
+    <state width="1637" height="244" key="GridCell.Tab.0.center" timestamp="1594821416264">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1594724494261" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1594724494261">
+    <state width="1637" height="244" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1594821416264" />
+    <state width="1637" height="244" key="GridCell.Tab.0.left" timestamp="1594821416264">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1594724494261" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1594724494261">
+    <state width="1637" height="244" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1594821416264" />
+    <state width="1637" height="244" key="GridCell.Tab.0.right" timestamp="1594821416264">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1594724494261" />
+    <state width="1637" height="244" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1594821416264" />
     <state width="794" height="330" key="GridCell.Tab.1.bottom" timestamp="1593693563247">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
