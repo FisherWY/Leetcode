@@ -46,7 +46,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.solution1291">
+  <component name="RunManager" selected="Application.solution343">
     <configuration name="Offer11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="剑指Offer.Offer11" />
       <module name="leetcode" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution_mid.solution96" />
+    <configuration name="solution343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution_mid.solution343" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution343" />
         <item itemvalue="Application.solution1291" />
         <item itemvalue="Application.Offer11" />
         <item itemvalue="Application.solution97" />
         <item itemvalue="Application.solution1318" />
-        <item itemvalue="Application.solution96" />
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +340,7 @@
       <workItem from="1595832353480" duration="7000" />
       <workItem from="1595930693601" duration="551000" />
       <workItem from="1596024605960" duration="1996000" />
+      <workItem from="1596103163170" duration="1549000" />
     </task>
     <servers />
   </component>
@@ -390,22 +391,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="385" y="259" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1680.1010@0.0.1680.1010" timestamp="1588258011167" />
-    <state width="1637" height="244" key="GridCell.Tab.0.bottom" timestamp="1596028918885">
+    <state width="1637" height="244" key="GridCell.Tab.0.bottom" timestamp="1596104713564">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="244" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596028918885" />
-    <state width="1637" height="244" key="GridCell.Tab.0.center" timestamp="1596028918885">
+    <state width="1637" height="244" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596104713564" />
+    <state width="1637" height="244" key="GridCell.Tab.0.center" timestamp="1596104713564">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="244" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596028918885" />
-    <state width="1637" height="244" key="GridCell.Tab.0.left" timestamp="1596028918885">
+    <state width="1637" height="244" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596104713564" />
+    <state width="1637" height="244" key="GridCell.Tab.0.left" timestamp="1596104713564">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="244" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596028918885" />
-    <state width="1637" height="244" key="GridCell.Tab.0.right" timestamp="1596028918885">
+    <state width="1637" height="244" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596104713564" />
+    <state width="1637" height="244" key="GridCell.Tab.0.right" timestamp="1596104713564">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="244" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596028918885" />
+    <state width="1637" height="244" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596104713564" />
     <state width="794" height="330" key="GridCell.Tab.1.bottom" timestamp="1593693563247">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
