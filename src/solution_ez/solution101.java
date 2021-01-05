@@ -5,8 +5,6 @@ package solution_ez;
  * @Date 2020/2/11 22:41
  **/
 
-import sun.reflect.generics.tree.Tree;
-
 /**
  * 给定一个二叉树，检查它是否是镜像对称的。
  *

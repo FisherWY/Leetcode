@@ -5,10 +5,7 @@ package solution_ez;
  * @Date 2020/5/8 21:26
  **/
 
-import org.omg.CORBA.INTERNAL;
-
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**

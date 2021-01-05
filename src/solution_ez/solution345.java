@@ -5,11 +5,6 @@ package solution_ez;
  * @Date 2020/2/28 22:18
  **/
 
-import javafx.util.Pair;
-
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * 编写一个函数，以字符串作为输入，反转该字符串中的元音字母。
  *
