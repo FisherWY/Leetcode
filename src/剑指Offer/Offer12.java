@@ -1,5 +1,8 @@
 package 剑指Offer;
 
+/**
+ * 剑指Offer12：矩阵中的路径
+ */
 public class Offer12 {
 
     private String word;
